@@ -26,7 +26,7 @@
 
 ---
 
-# 🩸 About Me
+#  About Me
 
 **Systems Analyst • Python Developer • Front-End Enthusiast • Web Designer • UI/UX Design Lover**
 
@@ -56,7 +56,7 @@ Currently deepening my studies in **Python**, **SQL** and **Web Development**, a
 
 ---
 
-# 🛠️ Technologies
+#  Technologies
 
 <div align="center">
 
@@ -72,7 +72,7 @@ Currently deepening my studies in **Python**, **SQL** and **Web Development**, a
 
 ---
 
-# 📊 Statistics
+#  Statistics
 
 <div align="center">
 
@@ -92,7 +92,7 @@ Currently deepening my studies in **Python**, **SQL** and **Web Development**, a
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 <div align="center">
 
@@ -102,11 +102,11 @@ Currently deepening my studies in **Python**, **SQL** and **Web Development**, a
 
 ---
 
-# 🎓 Bonfires List - Education
+#  Bonfires List - Education
 
 | Course | Status |
 |---------|---------|
-| 🎓 Systems Analysis and Development (ADS) | 🔄 In Progress |
+| 🔶 Systems Analysis and Development (ADS) | 🔄 In Progress |
 | 🔶 Web Development (HTML5, CSS, JavaScript & PHP) | ✅ Completed |
 | 🔶 Information Security Fundamentals | ✅ Completed |
 | 🔶 Computer Networks Fundamentals | ✅ Completed |
@@ -120,11 +120,11 @@ Currently deepening my studies in **Python**, **SQL** and **Web Development**, a
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 <div align="center">
 
-🔄 New projects coming soon...
+ New projects coming soon...
 
 Currently developing academic and personal projects focused on Python, Web Development and Systems Analysis.
 
@@ -134,6 +134,6 @@ Currently developing academic and personal projects focused on Python, Web Devel
 
 <div align="center">
 
-*🩸 "Na escuridão do desconhecido, cada linha de código é uma caça ao conhecimento." 🖤*
+* "Na escuridão do desconhecido, cada linha de código é uma caça ao conhecimento." 🖤*
 
 </div>
