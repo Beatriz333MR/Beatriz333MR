@@ -134,6 +134,6 @@ Currently developing academic and personal projects focused on Python, Web Devel
 
 <div align="center">
 
-* "Na escuridão do desconhecido, cada linha de código é uma caça ao conhecimento." 🖤*
+*"Na escuridão do desconhecido, cada linha de código é uma caça ao conhecimento."*
 
 </div>
